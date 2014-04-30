@@ -1,0 +1,6 @@
+# Artículo 324 bis
+Control judicial. A los tres meses de dictado el auto de prisión preventiva, si el Ministerio Público no ha planteado solicitud de conclusión del procedimiento preparatorio, el juez, bajo su responsabilidad dictará resolución concediéndole un plazo máximo de tres días para que formule la solicitud que en su concepto corresponda.
+Si el fiscal asignado no formulare petición alguna, el juez lo comunicará al Fiscal General de la República o al fiscal de distrito o de sección correspondiente para que tome las medidas disciplinarias correspondientes y ordene la formulación de la petición procedente. El juez lo comunicará, además, obligatoriamente al Consejo del Ministerio Público para lo que proceda conforme a la ley.
+Si en el plazo máximo de ocho días el fiscal aún no hubiere formulado petición alguna, el juez ordenará la clausura provisional del procedimiento con las consecuencias de ley hasta que lo reactive el Ministerio Público a través de los procedimientos establecidos en este Código.
+En el caso de que se haya dictado una medida sustitutiva, el plazo máximo del procedimiento preparatorio durará seis meses a partir del auto de procesamiento.
+Mientras no exista vinculación procesal mediante prisión preventiva o medidas sustitutivas, la investigación no estará sujeta a estos plazos.

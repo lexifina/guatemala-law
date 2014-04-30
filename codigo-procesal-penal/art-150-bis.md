@@ -1,0 +1,5 @@
+# Artículo 150 bis
+Trámite general de los incidentes. Cuando se promueva un incidente para el cual este Código no señale un procedimiento específico, se procederá de la forma siguiente:
+La parte que promueve el incidente solicitará una audiencia para sustanciar el mismo, exponiendo los argumentos que fundamentan su petición y proponiendo e individualizando la prueba cuando se refiera a cuestiones de hecho. El incidente que sea promovido sin cumplir con los requisitos anteriores será rechazado. El juez o tribunal que deba conocer del incidente citará al imputado, al Ministerio Público y a las demás partes, a una audiencia que deberá realizarse dentro del plazo máximo de dos (2) días en el caso que se trate de cuestiones de derecho, y cinco (5) días en el caso que sea cuestiones de hecho.
+Oídas las partes y, en su caso, recibidas las pruebas, el órgano jurisdiccional, en la audiencia respectiva, resolverá el incidente sin más trámite.
+Si el incidente se promueve en el curso de una audiencia oral y no existe otro procedimiento señalado en este Código, se tramitará conforme a lo dispuesto respecto de los incidentes durante el debate oral y público.

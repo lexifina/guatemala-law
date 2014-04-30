@@ -1,0 +1,10 @@
+# Artículo 552 bis
+Juzgados de paz comunitarios. En cinco municipios de la República en donde no hubiere juzgados de paz y en el plazo de tres meses, la Corte Suprema de Justicia nombrará como jueces de paz en materia penal a tres personas de reconocida honorabilidad y arraigo que puedan comunicarse en la lengua predominante de la región y en español.
+Para la designación de los jueces comunitarios, la Corte Suprema de Justicia realizará consultas con las diferentes autoridades comunitarias.
+Los jueces de paz comunitarios tendrán competencia para:
+a) Aplicar el criterio de oportunidad en los casos y formas en que autoriza el artículo 25 de este Código, salvo el numeral sexto.
+b) Podrán celebrar audiencias de conciliación y aprobar acuerdos entre las partes en los casos de delitos de acción privada y de acción pública dependientes de instancia particular.
+c) Recibirán la primera declaración del imputado, dictarán las medidas de coerción personal que correspondan y remitirán el expediente al juzgado de primera instancia competente, poniendo a su disposición al detenido, si lo hubiere, cuando se trate de delitos graves o cuando no proceda el criterio de oportunidad o fracase la conciliación.
+d) Si no hubiere delegación del Ministerio Público, ordenará el levantamiento de cadáveres, documentando la diligencia en acta en la cual se consignen las circunstancias.
+Dichos jueces resolverán por mayoría, previa deliberación, y ejercerán su competencia en la circunscripción territorial del Municipio. Presidirá el tribunal el juez de mayor edad y resolverán con arreglo a los usos y costumbres, la equidad y los principios generales del Derecho cuando ello fuere posible. Sus fallos no podrán violar la Constitución ni las leyes. La actividad judicial que desarrollen se efectuará conforme a los principios de oralidad, publicidad, inmediación y contradicción que inspiran el sistema acusatorio.
+Concluido un año de funcionamiento de los juzgados de paz comunitarios, con informe favorable de la Corte Suprema de Justicia, se implementará este tipo de juzgados en los municipios del país, donde no hubiere juzgados de paz.

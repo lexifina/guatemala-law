@@ -1,0 +1,10 @@
+# Artículo 264 bis
+Arresto domiciliario en hechos de tránsito. Cuando se trate de hechos por accidentes de tránsito, los causantes de ellos deberán quedarse en libertad inmediata, bajo arresto domiciliario.
+Esta medida podrá constituirse mediante acta levantada por un Notario, Juez de Paz o por el propio jefe de Policía que tenga conocimiento del asunto, estos funcionarios serán responsables si demoran innecesariamente el otorgamiento de la medida. El interesado podrá requerir la presencia de un fiscal del Ministerio Público a efecto de agilizar el otorgamiento de dicha medida. En el acta deberán hacerse constar los datos de identificación personal, tanto del beneficiado como de su fiador, quienes deberán identificarse con su cédula de vecindad o su licencia de conducir vehículos automotores, debiéndose registrar la dirección de la residencia de ambos.
+El Juez de Primera Instancia competente, al recibir los antecedentes, examinará y determinará la duración de la medida, pudiendo ordenar la sustitución de la misma por cualesquiera de las contempladas en el artículo anterior.
+No gozará del beneficio la persona que en el momento del hecho se encontrare en alguna de las situaciones siguientes:
+1) En estado de ebriedad o bajo efecto de drogas o estupefacientes.
+2) Sin licencia vigente de conducción.
+3) No haber prestado ayuda a la víctima, no obstante de haber estado en posibilidad de hacerlo.
+4) Haberse puesto en fuga u ocultado para evitar su procesamiento.
+En los casos en los cuales el responsable haya sido el piloto de un transporte colectivo de pasajeros, escolares o de carga en general cualquier transporte comercial, podrá otorgársele este beneficio, siempre que se garantice suficientemente ante el Juzgado de Primera Instancia respectivo, el pago de las responsabilidades civiles. La garantía podrá constituirse mediante primera hipoteca, fianza prestada por entidad autorizada para operar en el país o mediante el depósito de una cantidad de dinero en la Tesorería del Organismo Judicial y que el juez fijará en cada caso.
