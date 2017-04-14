@@ -1,0 +1,2 @@
+# Artículo II (disposición transitoria)
+Los juicios de trabajo, de cualquier naturaleza que sean, que al entrar en vigor esta ley se encuentren en trámite, se continuarán y fenecerán, tanto en lo que se refiere a los procedimientos que deban seguirse, como a las disposiciones sustantivas que corresponde aplicar, de conformidad con las normas que hubieren estado en vigor a la fecha de su iniciación.
