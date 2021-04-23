@@ -1,0 +1,1 @@
+ARTICULO IX.- La autorización de libros y de registros establecida en el Artículo 372 comenzará a hacerse por el Registro Mercantil de la capital a partir de la fecha de vigencia de esta ley. En los demás registros se hará desde la fecha que el Ministerio de Economía determine.

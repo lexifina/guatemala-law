@@ -1,0 +1,2 @@
+ARTICULO III.- Si las sociedades constituidas al amparo de legislación mercantil anterior prorrogan su plazo o sufren cualquier modificación a su escritura constitutiva o estatutos, deberán tomar las medidas necesarias para adaptar su funcionamiento a las disposiciones de este Código.
+Toda sociedad constituida con antelación a la vigencia de este Código, que prorrogue su plazo después de que éste entre en vigor, quedará regida por las disposiciones de esta ley.

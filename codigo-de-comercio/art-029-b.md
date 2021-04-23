@@ -1,0 +1,2 @@
+ARTICULO 29.- Época y forma de las aportaciones. Los socios deben efectuar sus aportaciones en la época y forma estipuladas en la escritura constitutiva. El retardo o la negativa en la entrega, sea cual fuere la causa, autorizará a los socios para excluir de la sociedad al socio moroso o para proceder ejecutivamente contra él.
+El socio, incluso el industrial, responde personalmente de los daños y perjuicios que ocasione a la sociedad por incumplimiento o mora.

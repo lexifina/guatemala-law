@@ -1,0 +1,1 @@
+ARTICULO X.- Los conflictos en la aplicación de preceptos contradictorios entre lo dispuesto en leyes anteriores y lo ordenado por este Código, se resolverán de conformidad con lo que establece la Ley del Organismo Judicial, Decreto 1762 del Congreso de la República, especialmente en su Artículo 176.

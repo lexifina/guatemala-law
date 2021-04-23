@@ -1,0 +1,1 @@
+ARTICULO VIII.- Las sociedades anónimas que deban su creación a aportes de capital obligatorios por ley, seguirán regidas por las leyes que regulan su creación, aun en el caso de acogerse a este Código.

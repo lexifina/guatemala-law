@@ -1,0 +1,1 @@
+ARTICULO XX.- Por las ventas y por la prestación de servicios, de cualquier naturaleza, deberá pagarse el Impuesto de Papel Sellado y Timbres, conforme a la ley respectiva, exista o no obligación de extender factura de acuerdo con las disposiciones de la presente ley.

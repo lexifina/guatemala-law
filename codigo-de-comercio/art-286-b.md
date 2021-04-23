@@ -1,0 +1,2 @@
+ARTICULO 286 BIS.- [ADICIONADO por el Art. 16 del DECRETO del CONGRESO [11-2006] de fecha [18/05/2006], el cual queda así:]
+"Las personas individuales o Jurídicas que actúen como distribuidores, agentes o representantes, al amparo de esta ley, deberán inscribirse como tales en el Registro de Agentes, Distribuidores y Representantes, que para este fin establecerá y administrará el Registro Mercantil.”

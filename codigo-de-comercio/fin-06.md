@@ -1,0 +1,1 @@
+ARTICULO VI.- El embargo o intervención de empresas y establecimientos mercantiles se sujetará a lo establecido en el Artículo 661 de este Código, por lo que en estos casos no tendrá aplicación el Artículo 37 del Decreto-Ley 107, Código Procesal Civil y Mercantil.

@@ -1,0 +1,1 @@
+ARTICULO IX.- Se derogan todas las leyes, reglamentos y disposiciones de cualquier orden que se opongan al presente Código, que regulen materias cubiertas por el mismo o que entorpezcan su aplicación.

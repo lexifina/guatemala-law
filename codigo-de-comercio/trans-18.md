@@ -1,0 +1,1 @@
+ARTICULO XVIII.- El protesto de los títulos de crédito emitidos durante la vigencia de leyes anteriores, se efectuará de acuerdo con lo que determina la Sección Cuarta del Capítulo V del Título Primero del Libro Tercero de este Código.

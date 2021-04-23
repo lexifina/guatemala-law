@@ -1,0 +1,1 @@
+ARTICULO XVII.- La responsabilidad en que incurran las personas que hayan intervenido en la emisión o creación de los títulos de crédito, se regirá por las leyes en vigor en la época en que tuvo lugar el hecho de que aquélla resulte.

@@ -1,0 +1,1 @@
+ARTICULO XIV.- Las condiciones intrínsecas y los requisitos de forma necesarios para la validez de los títulos de crédito emitidos o creados con anterioridad a la fecha de vigencia del presente Código, se regirán por las leyes conforme a la cuales se emitieron o crearon.

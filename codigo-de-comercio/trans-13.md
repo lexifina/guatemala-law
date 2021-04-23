@@ -1,0 +1,2 @@
+ARTICULO XIII.- Los procesos mercantiles que estuvieren en trámite al entrar en vigencia este Código, se continuarán por el procedimiento que establece el Código Procesal Civil y Mercantil.
+Los procesos mercantiles que se inicien a partir de la vigencia de este Código se ventilarán por el procedimiento que esta ley establece, aunque la relación o negocio jurídico, el acto, contrato o título de crédito que les sirve de base se hubiere constituido, otorgado, creado o emitido conforme a legislación anterior.

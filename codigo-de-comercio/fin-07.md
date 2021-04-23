@@ -1,0 +1,1 @@
+ARTICULO VII.- Todas las sociedades anónimas, aun aquellas a las que se refiere el Artículo 12 de este Código, podrán no tener estatutos. La inscripción en el Registro Mercantil de las sociedades a que se refiere el Artículo 12 antes mencionado, se hará después que lo autorice la entidad fiscalizadora que corresponda, según sus leyes especiales.

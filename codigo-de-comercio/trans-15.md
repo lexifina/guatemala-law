@@ -1,0 +1,1 @@
+ARTICULO XV.- Los efectos que, al entrar en vigencia este Código, aún estén produciendo los títulos de crédito emitidos o creados con base en las leyes y reglamentos que éste deroga, se regirán por lo dispuesto en el presente Código, siempre que su aplicación no resulte retroactiva.

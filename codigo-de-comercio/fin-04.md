@@ -1,0 +1,1 @@
+ARTICULO IV.- Las disposiciones del Código Civil relativas al Registro de Personas Jurídicas, no tendrán aplicación en cuanto a las sociedades mercantiles y mantendrán su vigencia únicamente en cuanto a las personas jurídicas no constituidas bajo forma mercantil.

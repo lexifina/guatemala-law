@@ -1,0 +1,3 @@
+ARTICULO VIII.- El Registro Mercantil deberá estar organizado y funcionando a partir de la fecha en que entre en vigor esta ley.
+El Organismo Ejecutivo deberá emitir el Reglamento del Registro Mercantil, el cual será propuesto por el registrador mercantil, incluyendo el arancel respectivo.
+El Ministerio de Economía queda encargado de hacer los arreglos necesarios para la debida instalación del Registro Mercantil de la capital y de la organización de los demás registros. El Ministerio de Hacienda y Crédito Público hará las transferencias presupuestarias para el debido cumplimiento de la presente ley.

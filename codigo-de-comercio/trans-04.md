@@ -1,0 +1,1 @@
+ARTICULO IV.- En los casos a que se refieren los Artículos II y III que anteceden, el registrador se limitará a calificar la legalidad de los instrumentos otorgados para cumplir con ellos y deberá abstenerse de hacer calificación alguna, en cuanto a los actos de constitución o de anteriores prórrogas o modificaciones a la escritura social.

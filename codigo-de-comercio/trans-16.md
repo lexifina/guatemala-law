@@ -1,0 +1,1 @@
+ARTICULO XVI.- La admisibilidad de las pruebas y los efectos de las presunciones legales relativas a los títulos de crédito, se regirán por la ley vigente cuando se constituyó la relación jurídica o se produjo el hecho que es objeto de prueba o sirve de base a las presunciones.
