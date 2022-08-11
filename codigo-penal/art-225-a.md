@@ -1,0 +1,2 @@
+# Artículo 225 A
+Artículo 225 “A”. (Inseminación forzosas). Será sancionado con prisión de dos a cinco años e inhabilitación especial hasta diez años el que, sin consentimiento de la mujer procurare su embarazo utilizando técnicas médicas o químicas de inseminación artificial. Se resultare el embarazo, se aplicará prisión de dos a seis años e inhabilitación especial hasta quince años. Si la mujer sufriere lesiones gravísimas o la muerte, se aplicará prisión de tres a diez años e inhabilitación especial de diez a veinte años.

@@ -1,0 +1,2 @@
+# Artículo 438 BIS
+Artículo 438 bis. (Consumo ilícito de bebidas alcohólicas o fermentadas). Los miembros de las policías que operan en el país que ingieran bebidas alcohólicas o fermentadas cuando vistan uniforme, porten insignias exteriores o distintivos propios de la institución a que pertenezcan, o porten las armas de su equipo, serán sancionados con prisión de uno a tres añios e inhabilitación absoluta conforme a lo dispuesto en los incisos 2 y 3 del artículo 56 del Código Penal.

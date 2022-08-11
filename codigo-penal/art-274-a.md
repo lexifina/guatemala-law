@@ -1,0 +1,2 @@
+# Artículo 274 A
+Artículo 274 “A” (Destrucción de registros Informáticos). Será sancionado con prisión de seis meses a cuatro años, y multa de doscientos a dos mil quetzales, el que destruyere, borrare o de cualquier modo inutilizare registros informáticos. La pena se elevará en un tercio cuando se trate de información necesaria para la prestación de un servicio público o se trate de un registro oficial.

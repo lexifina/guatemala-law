@@ -1,0 +1,2 @@
+# Artículo 332 C
+Artículo 332 “C” (Tráfico de tesoros nacionales). Se impondrá prisión de seis a quince años y multa de cinco mil a diez mil quetzales a quien comercializare, exportare o de cualquier modo transfiera la propiedad o la tenencia de alguno de los bienes señalados en los artículos anteriores, sin autorización estatal. Se impondrá la misma pena a quien comprare o de cualquier modo adquiriere bienes culturales hurtados o robados. Si la adquisición se realiza por culpa se reducirá la pena a la mitad.

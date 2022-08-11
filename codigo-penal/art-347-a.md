@@ -1,0 +1,2 @@
+# Artículo 347 A
+Artículo 347 ”A”. (Contaminación). Será sancionado con prisión de uno a dos años, y multa de trescientos a cinco mil quetzales el que contaminare el aire, el suelo o las aguas, mediante emanaciones tóxicas, ruidos excesivos, vertiendo sustancias peligrosas o desechando productos que puedan perjudican a les personas, a los animales, bosques o plantaciones. Si la contaminación se produce en forma culposa, se impondrá multa de doscientos a mil quinientos quetzales.
