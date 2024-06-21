@@ -1,0 +1,1 @@
+ARTICULO 124. TRANSITORIO. Mientras se promulga la nueva ley de aguas de dominio público, quedan en vigor los capítulos II, III, IV y V del título II y, II y III del título VI del Código Civil, Decreto legislativo 1932.
