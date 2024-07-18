@@ -1,0 +1,2 @@
+Artículo 27.- Con el objeto de que las elecciones de los gobiernos municipales sean realizadas en una misma fecha, conjuntamente con las elecciones presidenciales y de diputados, en aquellos municipios cuyos gobiernos municipales tomaron posesión en junio de 1993 para un período de cinco años, las próximas elecciones lo serán para un período que concluirá el 15 de enero del año 2000.
+Para tal efecto el Tribunal Supremo Electoral deberá tomar las medidas pertinentes.

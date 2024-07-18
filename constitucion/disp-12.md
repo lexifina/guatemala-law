@@ -1,0 +1,1 @@
+Artículo 12.- Presupuesto. A partir del inicio de la vigencia de la Constitución, el Gobierno de la República podrá someter al conocimiento del Congreso de la República el Presupuesto General de Ingresos y Egresos del Estado puesto en vigencia por el anterior gobierno. De no modificarse, continuará su vigencia durante el ejercicio fiscal de 1986.

@@ -1,0 +1,2 @@
+Artículo 6.- Congreso de la República. La Asamblea Nacional Constituyente dará posesión de sus cargos a los diputados declarados electos por el Tribunal Supremo electoral el día 14 de enero de 1986.
+Los diputados electos al Congreso de la República celebrarán sesiones preparatorias de manera que en el mismo acto de toma de posesión de sus cargos, tome posesión también la Junta Directiva del Congreso de la República integrada en la forma que establece esta Constitución.

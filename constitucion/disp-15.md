@@ -1,0 +1,1 @@
+Artículo 15.- Integración de Petén. Se declara de urgencia nacional, el fomento y desarrollo económico del departamento de Petén, para su efectiva integración a la economía nacional. La ley determinará las medidas y actividades que tiendan a tales propósitos.

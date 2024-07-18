@@ -1,0 +1,1 @@
+Artículo 22.- Derogatoria. Se derogan todas las Constituciones de la República de Guatemala y reformas constitucionales decretadas con anterioridad a la presente, así como cualesquiera leyes y disposiciones que hubiesen surtido iguales efectos.

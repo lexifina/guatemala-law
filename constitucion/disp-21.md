@@ -1,0 +1,2 @@
+Artículo 21.- Vigencia de la Constitución. La presente Constitución Política de la República de Guatemala entrará en vigencia el día 14 de enero de 1986 al quedar instalado el Congreso de la República y no pierde su validez y vigencia pese a cualquier interrupción temporal derivada de situaciones de fuerza.
+Se exceptúan de la fecha de vigencia el presente artículo y los artículos 4, 5, 6, 7, 8, 17 y 20 de las disposiciones transitorias y finales de esta Constitución, los cuales entrarán en vigor el 1o. de junio de 1985.

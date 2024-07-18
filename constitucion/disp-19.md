@@ -1,0 +1,3 @@
+Artículo 19.- Belice. El Ejecutivo queda facultado para realizar las gestiones que tiendan a resolver la situación de los derechos de Guatemala respecto a Belice, de conformidad con los intereses nacionales. Todo acuerdo definitivo deberá ser sometido por el Congreso de la República al procedimiento de consulta popular previsto en el artículo 173 de la Constitución.
+El Gobierno de Guatemala promoverá relaciones sociales, económicas y culturales con la población de Belice.
+Para los efectos de nacionalidad, los beliceños de origen quedan sujetos al régimen que esta Constitución establece para los originarios de los países centroamericanos.

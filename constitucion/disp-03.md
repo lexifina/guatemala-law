@@ -1,0 +1,1 @@
+Artículo 3.- Conservación de la nacionalidad. Quienes hubieren obtenido la nacionalidad guatemalteca, de origen o por naturalización, la conservarán con plenitud de derechos. El Congreso de la República emitirá una ley relativa a la nacionalidad, a la brevedad posible.

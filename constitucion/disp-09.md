@@ -1,0 +1,2 @@
+Artículo 9.- Municipalidades. Las corporaciones municipales electas tomarán posesión de sus cargos e iniciarán el período para el que fueran electas, el 15 de enero de 1986.
+El Congreso de la República deberá emitir un nuevo Código Municipal, la Ley de Servicio Municipal, Ley Preliminar de Regionalización y un Código Tributario Municipal, ajustados a los preceptos constitucionales, a más tardar, en el plazo de un año a contar de la instalación del Congreso.

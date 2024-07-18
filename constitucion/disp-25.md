@@ -1,0 +1,1 @@
+Artículo 25.- Las disposiciones contenidas en los artículos 23 y 24 del Capítulo Unico del Título VIII de esta Constitución son de carácter especial y prevalecen sobre cualesquiera otras de carácter general.

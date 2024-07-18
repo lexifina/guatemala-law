@@ -1,0 +1,1 @@
+Artículo 20.- Epígrafes. Los epígrafes que preceden a los artículos de esta Constitución, no tienen validez interpretativa y no pueden ser citados con respecto al contenido y alcances de las normas constitucionales.

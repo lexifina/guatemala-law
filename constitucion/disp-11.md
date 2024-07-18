@@ -1,0 +1,1 @@
+Artículo 11.- Organismo Ejecutivo. Dentro del primer año de vigencia de esta Constitución, el Presidente de la República, en ejercicio de su iniciativa de ley, deberá enviar al Congreso de la República el proyecto de ley del Organismo Ejecutivo.

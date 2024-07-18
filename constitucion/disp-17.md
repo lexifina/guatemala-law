@@ -1,0 +1,1 @@
+Artículo 17.- Financiamiento a Partidos Políticos. Los partidos políticos gozarán de financiamiento, a partir de las elecciones generales del 3 de noviembre de 1985, el que será regulado por la Ley Electoral Constitucional.

@@ -1,0 +1,1 @@
+Artículo 26.- A más tardar, dentro del plazo de dieciocho meses a partir de la fecha de la vigencia de las presentes reformas, el Organismo Ejecutivo, a fin de modernizar y hacer más eficiente la administración pública, en ejercicio de su iniciativa de ley, deberá enviar al Congreso de la República una iniciativa de ley que contenga la Ley del Organismo Ejecutivo.

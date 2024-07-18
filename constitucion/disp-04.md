@@ -1,0 +1,2 @@
+Artículo 4.- Gobierno de facto. El Gobierno de la República, organizado de acuerdo con el Estatuto Fundamental de Gobierno y sus reformas, conservará sus funciones hasta que tome posesión la persona electa para el cargo de Presidente de la República.
+El Estatuto fundamental de Gobierno contenido en Decreto-Ley 24-82 de fecha 27 de abril de 1982, 36-82 de fecha 9 de junio de 1982, 87-83 de fecha 8 de agosto de 1983 y demás reformas, continuarán en vigencia hasta el momento de inicio de la vigencia de esta Constitución.

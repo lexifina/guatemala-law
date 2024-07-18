@@ -1,0 +1,1 @@
+Artículo 1.- Ley de Servicio del Organismo Legislativo. La ley específica que regule las relaciones del Organismo Legislativo con su personal, deberá ser emitida dentro de los treinta días siguientes a la instalación de dicho Organismo.

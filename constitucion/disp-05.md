@@ -1,0 +1,3 @@
+Artículo 5.- Elecciones generales. El 3 de noviembre de 1985 se practicarán elecciones generales para Presidente y Vicepresidente de la República, diputados al Congreso de la República y corporaciones municipales de todo el país, de acuerdo con lo establecido por la Ley Electoral específica emitida por la Jefatura de Estado para la celebración de dichas elecciones generales.
+Si fuere procedente, se efectuará una segunda elección para Presidente y Vicepresidente de la República, el 8 de diciembre de 1985 con sujeción a la misma ley.
+El Tribunal supremo Electoral organizará dichos comicios y hará la calificación definitiva de sus resultados, proclamando a los ciudadanos electos.

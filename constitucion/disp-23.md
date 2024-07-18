@@ -1,0 +1,4 @@
+Artículo 23.- Para la adecuación del Congreso de la República a las reformas constitucionales aprobadas el 17 de noviembre de 1993, se deberá proceder de la manera siguiente:
+a) Al estar vigentes las presentes reformas constitucionales el Tribunal Supremo Electoral deberá convocar a elecciones para diputados al Congreso de la República, las cuales deberán realizarse en un plazo no menor de ciento veinte días después de convocadas.
+b) Los diputados que resulten electos tomarán posesión de sus cargos treinta días después de efectuada la elección, fecha en que termina el período y funciones de los diputados al Congreso de la República que se instaló el 15 de enero de 1991.
+c) El Congreso de la República que se instale de conformidad con las literales a) y b) del presente artículo, concluirá sus funciones el 14 de enero de 1996. Ese mismo día tomarán posesión los diputados que sean electos en las elecciones generales de 1995.

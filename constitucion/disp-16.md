@@ -1,0 +1,1 @@
+Artículo 16.- Decretos-Leyes. Se reconoce la validez jurídica de los decretos-leyes emanados del Gobierno de la República a partir del 23 de marzo de 1982, así como a todos los actos administrativos y de gobierno realizados de conformidad con la ley a partir de dicha fecha.
