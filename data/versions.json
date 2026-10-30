@@ -1,0 +1,89 @@
+{
+ "country": "GT",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "CPRG",
+   "title": "Constitución Política de la República de Guatemala",
+   "url": "https://cc.gob.gt/wp-content/uploads/2023/09/constitucion-politica-de-la-republica-de-guatemala.pdf",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 364,
+     "source_url": "https://cc.gob.gt/wp-content/uploads/2023/09/constitucion-politica-de-la-republica-de-guatemala.pdf",
+     "sha256": "4dc73b1872147143b124f45052b356e568195925154caf1279aa0bf843a1a3b2"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-penal",
+   "short": "CP",
+   "title": "Código Penal (Decreto 17-73 del Congreso de la República)",
+   "url": "https://www.idpp.gob.gt/images/Biblioteca-virtual/Leyes_y_Reglamentos/CODIGO_PENAL.pdf",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 536,
+     "source_url": "https://www.idpp.gob.gt/images/Biblioteca-virtual/Leyes_y_Reglamentos/CODIGO_PENAL.pdf",
+     "sha256": "065dce63a1c01027aacf0f136986f46b726f27fceafa23d623ac7626f3b77377"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-civil",
+   "short": "CC",
+   "title": "Código Civil (Decreto-Ley 106)",
+   "url": "https://mcd.gob.gt/wp-content/uploads/2013/07/codigo-civil.pdf",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 2010,
+     "source_url": "https://mcd.gob.gt/wp-content/uploads/2013/07/codigo-civil.pdf",
+     "sha256": "6f2eaed93101500fc76553d45d6e82d978ca1df82987ec1a896086cbd8e8a256"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-comercio",
+   "short": "CCom",
+   "title": "Código de Comercio de Guatemala (Decreto 2-70 del Congreso de la República)",
+   "url": "https://portal.mineco.gob.gt/sites/default/files/Mineco/ley_-_codigo_de_comercio_decreto_2-70_-_02-11-1970.pdf",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1092,
+     "source_url": "https://portal.mineco.gob.gt/sites/default/files/Mineco/ley_-_codigo_de_comercio_decreto_2-70_-_02-11-1970.pdf",
+     "sha256": "0c9691bce52436895f3b3f28ef2452e3e9b1374a4010fd52cb3b84aa7b2d544e"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-trabajo",
+   "short": "CT",
+   "title": "Código de Trabajo (Decreto 1441 del Congreso de la República)",
+   "url": "https://www.amsclae.gob.gt/wp-content/uploads/2026/08/10.-DECRETO-1441-CODIGO-DE-TRABAJO.pdf",
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 440,
+     "source_url": "https://www.amsclae.gob.gt/wp-content/uploads/2026/08/10.-DECRETO-1441-CODIGO-DE-TRABAJO.pdf",
+     "sha256": "7b28a5669f2fd1124038b04994bef22d1147e8d66c8d19cafae9c49e359ec618"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-procesal-penal",
+   "short": "CPP",
+   "title": "Código Procesal Penal (Decreto 51-92 del Congreso de la República)",
+   "url": "https://portal.pnc.edu.gt/wp-content/uploads/2024/02/CODIGO-PROCESAL-PENAL.pdf",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 582,
+     "source_url": "https://portal.pnc.edu.gt/wp-content/uploads/2024/02/CODIGO-PROCESAL-PENAL.pdf",
+     "sha256": "d29a842298697b4a4fa6c0684981e8d7bc57910283d9b7bdc43a83609d38ea7e"
+    }
+   ]
+  }
+ ]
+}

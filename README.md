@@ -1,0 +1,30 @@
+# Guatemala: law history in git
+
+The law of Guatemala as a git history: one file per provision, one commit per law on the day its change took effect, and the law that made each change as the commit's author. `git blame` names the law behind every line; picking a date gives the text in force that day.
+
+It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `gt/`.
+
+**What is in it now**
+
+| Folder | Law | Versions | History |
+| --- | --- | ---: | --- |
+| `constitucion/` | Constitución Política de la República de Guatemala, as published by the Corte de Constitucionalidad (2024 edition) | 1 | Oldest version available, dated 18 July 2024. Files: `preambulo`, `tit-NN[-cap-NN[-sec-NN]]` (headings), `art-001` to `art-281`, `disp-01` to `disp-27` (transitional and final provisions) and `cierre` |
+| `codigo-penal/` | Código Penal (Decreto 17-73 del Congreso), with its reforms, as published by the Instituto de la Defensa Pública Penal | 1 | Oldest version available, dated 11 August 2022 (the date of the PDF; the text is the consolidation of about 2008). Files: `art-001` to `art-498` (letter and bis articles as `art-225-a`), `disp-i` to `disp-iv` and `art-unico` |
+| `codigo-civil/` | Código Civil (Decreto-Ley 106), with its reforms, as published by the Ministerio de Cultura y Deportes | 1 | Oldest version available, dated 21 June 2024 (the date of the PDF; the Code came into force on 1 July 1964). Files: `art-001` to `art-2180`, `art-229-251` and similar blocks for repealed ranges, and `trans-NNN` (transitional articles) |
+| `codigo-de-comercio/` | Código de Comercio (Decreto 2-70), with its reforms and the source's reform notes, as published by the Ministerio de Economía | 1 | Oldest version available, dated 23 April 2021 (the date of the PDF; the Code came into force on 20 June 1970). Files: `art-001` to `art-1055`, `trans-NN` and `fin-NN` (transitional and final articles of the decree) |
+| `codigo-de-trabajo/` | Código de Trabajo (Decreto 1441), with its reforms to Decreto 7-2017, as consolidated by the Oficina Nacional de Servicio Civil | 1 | Oldest version available, dated 14 April 2017 (Decreto 7-2017, its latest reform, in force eight days after its publication on 6 April 2017). Files: `art-001` to `art-431` (bis articles as `art-014-bis`), `trans-i`, `trans-ii` and `fin-i` to `fin-iii` |
+| `codigo-procesal-penal/` | Código Procesal Penal (Decreto 51-92), with its reforms to Decreto 6-2013, as published by the Centro Nacional de Análisis y Documentación Judicial (CENADOJ) of the Organismo Judicial | 1 | Oldest version available, dated 30 April 2014 (the date to which the edition is updated). Files: `art-001` to `art-555` (bis, ter and quater articles as `art-024-bis`); repealed articles read "Derogado." |
+
+**Language.** Spanish, the official language.
+
+**Limits of this first build**
+
+- One version, credited to the publisher as "oldest version available". The Court publishes the Constitution as it stands (including the 1993 reforms) and no history, so there is no earlier or later version. The date is the date of the PDF, not an in-force date: the Constitution came into force on 14 January 1986 and was reformed in 1993.
+- The PDF's footnotes (which name the reforming articles of Acuerdo Legislativo 18-93), page headers, the deputies' signatures and the editor's note are not reproduced.
+- Paragraph breaks are read from line spacing; at a page boundary a break is assumed when the previous line ends with a full stop, semicolon or colon.
+- Only the Constitution, the Código Penal, the Código Civil, the Código de Comercio, the Código de Trabajo and the Código Procesal Penal are included so far; the Código de Trabajo and Código Procesal Penal editions' reform notes and the considerandos are left out, and later reforms (for example Decreto 10-2019 to the Código Procesal Penal) are not applied; the Commercial Code keeps the source's own reform annotations in braces; the Civil Code PDF carries footnoted reforms to an unstated date, with the footnotes left out; the Código Penal PDF is a consolidation of about 2008, so later reforms are not in it, and it prints three article numbers wrongly (see `REPRODUCE.md`).
+- Roughly half of the lines in the PDF use a font without a Unicode map. They were decoded with a fixed glyph table (this is not OCR); the decisions are listed in `REPRODUCE.md`.
+
+**Source.** Corte de Constitucionalidad de Guatemala, [cc.gob.gt/index.php/constitucion-politica](https://www.cc.gob.gt/index.php/constitucion-politica/), PDF read on 29 October 2026. The sha256 of the bytes it was parsed from is in `data/versions.json`. The Código Penal comes from the Instituto de la Defensa Pública Penal, [idpp.gob.gt](https://www.idpp.gob.gt/images/Biblioteca-virtual/Leyes_y_Reglamentos/CODIGO_PENAL.pdf), read on 30 October 2026. The Código Civil comes from the Ministerio de Cultura y Deportes, [mcd.gob.gt](https://mcd.gob.gt/wp-content/uploads/2013/07/codigo-civil.pdf), read on 30 October 2026. The Código de Comercio comes from the Ministerio de Economía, [mineco.gob.gt](https://portal.mineco.gob.gt/sites/default/files/Mineco/ley_-_codigo_de_comercio_decreto_2-70_-_02-11-1970.pdf), read on 30 October 2026. The Código de Trabajo is the Oficina Nacional de Servicio Civil edition published on the website of the Autoridad para el Manejo Sustentable de la Cuenca y del Lago de Amatitlán, [amsclae.gob.gt](https://www.amsclae.gob.gt/wp-content/uploads/2026/08/10.-DECRETO-1441-CODIGO-DE-TRABAJO.pdf), read on 30 October 2026. The Código Procesal Penal is the CENADOJ edition updated to 30 April 2014, as published on the website of the Academia de la Policía Nacional Civil, [portal.pnc.edu.gt](https://portal.pnc.edu.gt/wp-content/uploads/2024/02/CODIGO-PROCESAL-PENAL.pdf), read from an Internet Archive copy of 3 June 2024 on 30 October 2026.
+
+How these files were made is in [REPRODUCE.md](REPRODUCE.md). This repository is not legal advice and not an official publication; for anything that matters, read the original.
