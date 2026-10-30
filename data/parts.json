@@ -1,0 +1,17 @@
+{
+ "parts": {
+  "50-codigo-de-trabajo.json": {
+   "acts": [
+    "codigo-de-trabajo"
+   ],
+   "sha256": "5dcce1575cd9b4e6db321f0e169f88a3cb789d6c2e6251c76733f25f43ce4217"
+  },
+  "60-codigo-procesal-penal.json": {
+   "acts": [
+    "codigo-procesal-penal"
+   ],
+   "sha256": "707ad254e4501531700dba0a5adea735c558fc9d2dab7a34821bb24a3fbbbdc0"
+  }
+ },
+ "schema": 1
+}
