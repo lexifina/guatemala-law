@@ -63,6 +63,7 @@ Cada versión se atribuye a una entidad editora como "versión más antigua disp
 - Una segunda compilación a partir del mismo corpus dio hashes idénticos para los 6 commits de normas y las 6 etiquetas; el sha256 del corpus y los hashes del compilador están en [`REPRODUCE.md`](REPRODUCE.md), junto con cada decisión tomada a mano.
 - Cerca de la mitad de las líneas del PDF de la Constitución usan una fuente tipográfica sin mapa Unicode; se decodificaron con una tabla fija de glifos (no con OCR), y cada palabra se cotejó con las líneas del PDF codificadas normalmente.
 - Los trailers de todos los commits se analizan sin errores; no hay commits de fusión (merge), ni fechas de commit que retrocedan, ni ninguna posterior a la compilación.
+- [vulnerabilities/](vulnerabilities/): posibles errores de redacción en este derecho, hallados por los detectores de global-law y revisados a mano. Aún no se ha ejecutado.
 
 ## Qué no muestra
 
@@ -89,6 +90,10 @@ Véase [`LICENSE`](LICENSE). Las fuentes no indican ninguna licencia; los textos
 Ningún modelo de IA escribió, tradujo ni corrigió texto normativo, y ninguno se ejecuta cuando se construye la historia; los scripts los escribió Claude Code con Claude Opus 5.5 (véase [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
+
+## Visualizaciones
+
+- [visualisations/](visualisations/): gráficos hechos a partir de este repositorio. Aún no se han hecho.
 
 ## Más información
 

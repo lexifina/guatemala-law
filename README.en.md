@@ -63,6 +63,7 @@ Each version is credited to a publisher as the "oldest version available": the C
 - A second build from the same corpus gave identical hashes for all 6 law commits and 6 tags; the corpus's sha256 and the builder's hashes are in [`REPRODUCE.md`](REPRODUCE.md), with every decision made by hand.
 - About half the lines of the Constitution's PDF use a font with no Unicode map; they were decoded with a fixed glyph table (not OCR), and every word was checked against the PDF's normally encoded lines.
 - Every commit's trailers parse; there are no merge commits, no commit dates that go backwards and none after the build.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -87,6 +88,10 @@ Each version is credited to a publisher as the "oldest version available": the C
 See [`LICENSE`](LICENSE). The sources state no licence; the texts are reproduced as official legal texts, with attribution to the bodies that published them (the CENADOJ edition reads "Derechos reservados: Organismo Judicial de Guatemala", and only its text of the law is reproduced). Lexifina's arrangement, tables, commit messages and tools may be reused under CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
